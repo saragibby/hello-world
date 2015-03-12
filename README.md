@@ -5,7 +5,7 @@
 
 I grew up in a land before cell phones, and internets. I spent time building Legos, mastering Atari and Nintendo games, and riding my bike everywhere. Not to mention the movies and music... War Games, Wierd Science, Footloose... and who didn't want to moonwalk or know the Thriller dance?!
 
-I took my first programming class to help a friend. I was immediately hooked, and changed my major. I haven't stopped developing since. I've had some incredible opportunites to work for, and along side, some amazingly talented people. I am now thrilled to be a brand new member of a fantastic team at [Mutually Human](www.mutuallyhuman.com).
+I took my first programming class to help a friend. I was immediately hooked, and changed my major. I haven't stopped developing since. I've had some incredible opportunites to work for, and along side, some amazingly talented people. I am now thrilled to be a brand new member of a fantastic team at [Mutually Human](http://www.mutuallyhuman.com).
 
 #### Community Involvement 
 
